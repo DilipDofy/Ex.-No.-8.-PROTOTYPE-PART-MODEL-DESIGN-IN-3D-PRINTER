@@ -47,6 +47,9 @@
 
 ## Output:
 <img width="1918" height="1192" alt="image" src="https://github.com/user-attachments/assets/e90482fe-08f9-4c49-925d-747ca4fd3abb" />
+<img width="835" height="401" alt="image" src="https://github.com/user-attachments/assets/0e8b17ff-9fab-413c-8d80-608838de479b" />
+<img width="840" height="452" alt="image" src="https://github.com/user-attachments/assets/2a11102d-e7ab-4543-aa2c-97a27de0705b" />
+
 
 ### Name: DILIP M P
 ### Register Number: 212223230048
